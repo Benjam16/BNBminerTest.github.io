@@ -93,17 +93,17 @@ nav {
 
 .numminers {
     text-decoration: underline;
-    text-decoration-color: #354D5F;
+    text-decoration-color: #ffffff;
 }
 
 .numseeders {
     text-decoration: underline;
-    text-decoration-color: #354D5F;
+    text-decoration-color: #ffffff;
 }
 .tally-text{
   font-size: 3rem !important;
   font-weight: 600;
-  color: #354D5F;
+  color: #ffffff;
 }
 
 .tally-text:after {
