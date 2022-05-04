@@ -1,6 +1,6 @@
 body {
     font-family: 'Proxima Nova', Georgia, sans-serif;
-    background-color: #8128b0;
+    background-color: #72afed;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -10,7 +10,7 @@ body {
 }
 
 a {
-    color: #354D5F;
+    color: #ac42ad;
 }
 a:hover{
     text-decoration: none;
