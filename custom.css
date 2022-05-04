@@ -93,17 +93,17 @@ nav {
 
 .numminers {
     text-decoration: underline;
-    text-decoration-color: #ffffff;
+    text-decoration-color: #354D5F;
 }
 
 .numseeders {
     text-decoration: underline;
-    text-decoration-color: #ffffff;
+    text-decoration-color: #354D5F;
 }
 .tally-text{
   font-size: 3rem !important;
   font-weight: 600;
-  color: #ffffff;
+  color: #354D5F;
 }
 
 .tally-text:after {
@@ -289,25 +289,25 @@ nav {
 
 h1 {
     font-size: 3.5rem;
-    color: #354D5F;
+    color: #ffffff;
     font-family: 'Proxima Nova', Georgia, sans-serif;
     font-weight: bolder;
     margin-bottom: 15px
 }
 
 p {
-    color: #354D5F !important;
+    color: #ffffff !important;
 }
 
 h4 {
-  color: #354D5F;
+  color: #ffffff;
   font-weight: bold;
 }
 
 .info-badge {
   font-size: 10px;
   font-weight: 500;
-  color: #354D5F;
+  color: #ffffff;
   border-radius: 4px;
   background-color: #18f3b7;
   padding: 2px 4px;
